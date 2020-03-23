@@ -31,6 +31,7 @@
 		038A157D241F8E970011D97A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 038A157B241F8E970011D97A /* LaunchScreen.storyboard */; };
 		038A1585241F995D0011D97A /* Circleimage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 038A1584241F995D0011D97A /* Circleimage.swift */; };
 		038A1587241F9CFC0011D97A /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 038A1586241F9CFC0011D97A /* MapView.swift */; };
+		03C09F012428D7DA0014F63D /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03C09F002428D7DA0014F63D /* LandmarkList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +61,7 @@
 		038A157E241F8E970011D97A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		038A1584241F995D0011D97A /* Circleimage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Circleimage.swift; sourceTree = "<group>"; };
 		038A1586241F9CFC0011D97A /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		03C09F002428D7DA0014F63D /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +129,7 @@
 				038A1572241F8E970011D97A /* SceneDelegate.swift */,
 				038A1574241F8E970011D97A /* LandmarkDetail.swift */,
 				031DBAC02428D1D00046CE8C /* LandmarkRow.swift */,
+				03C09F002428D7DA0014F63D /* LandmarkList.swift */,
 				038A1584241F995D0011D97A /* Circleimage.swift */,
 				038A1586241F9CFC0011D97A /* MapView.swift */,
 				038A1576241F8E970011D97A /* Assets.xcassets */,
@@ -233,6 +236,7 @@
 				038A1571241F8E970011D97A /* AppDelegate.swift in Sources */,
 				031DBABE2428CC2E0046CE8C /* Data.swift in Sources */,
 				038A1585241F995D0011D97A /* Circleimage.swift in Sources */,
+				03C09F012428D7DA0014F63D /* LandmarkList.swift in Sources */,
 				038A1587241F9CFC0011D97A /* MapView.swift in Sources */,
 				038A1573241F8E970011D97A /* SceneDelegate.swift in Sources */,
 				031DBAC12428D1D00046CE8C /* LandmarkRow.swift in Sources */,
